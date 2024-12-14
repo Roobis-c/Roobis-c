@@ -21,7 +21,8 @@ I love crafting beautiful and functional web experiences
 
 Let's collaborate and create something awesome together!
 <p align="center"">
-  <img src="https://github.com/Roobis-c/Roobis-c/assets/143057190/9bd92e83-66cb-49a1-b527-504851b476a0" alt="coding">
+  <img src="https://github.com/user-attachments/assets/5d1452e5-8b63-4923-815a-72451300d252" alt="coding">
+
 </p>
 <!---
 Roobis-c/Roobis-c is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
