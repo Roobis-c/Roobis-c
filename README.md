@@ -1,6 +1,5 @@
 ## Hi there! 👋
 
-## About Me
 
 I'm   Roobis  C  .
 A passionate programmer with a keen interest in coding, HTML, and CSS.
