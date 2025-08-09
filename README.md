@@ -16,18 +16,7 @@ I combine **HTML, CSS, JavaScript, and modern frameworks** to turn ideas into di
 
 
 <br>
-<div>
-<h3 align="center">FolioSmith</h3>
 
-<p align="center"><strong>Build your portfolio in seconds — without writing a single line</strong></p>
-
-<p align="center">
-  <a href="https://roobis.neocities.org/builder" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Visit-FolioSmith-brightgreen?style=for-the-badge&logo=firefox" alt="Visit FolioSmith"/>
-  </a>
-  <hr>
-</p>
-</div>
 
 ## 🛠 My Tech Arsenal  
 
@@ -36,8 +25,22 @@ I combine **HTML, CSS, JavaScript, and modern frameworks** to turn ideas into di
 </p>
 
 
+<br><br>
+<div>  
+<h3 >FolioSmith</h3>
+<p ><strong>Build your portfolio in seconds — without writing a single line</strong></p>
+<p >
+  <a href="https://roobis.neocities.org/builder" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Visit-FolioSmith-brightgreen?style=for-the-badge&logo=firefox" alt="Visit FolioSmith"/>
+  </a>
+</p>
+  
+</div>
+
+
 
 <br>
+
 
 
 
