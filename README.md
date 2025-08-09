@@ -1,28 +1,80 @@
-## Hi there! 👋
-
-
-I'm   Roobis  C  .
-A passionate programmer with a keen interest in coding, HTML, and CSS.
-I love crafting beautiful and functional web experiences
-
-
-## What I Do
-
-- 💻 Code enthusiast: Always exploring new technique to  improve my coding prowess.
-- 🌐 Web wizard:  Skilled in HTML and CSS, I specialize in creating  good and proper web designs.
-- 🚀 Continuous learner: Eager to expand my knowledge and expertise through hands-on projects and online courses.
+<!-- HEADER -->
+<div >
+  Hey , There
   
+# I'm Roobis C  
+**Web Developer  ⫘  Programmer  ⫘ Continuous Learner**
 
-## Get in Touch
+</div> 
 
-Portfolio : https://roobis.neocities.org/ <br>
-📫  Email : roobisroobis08@gmail.com  or connect with me on LinkedIn : https://www.linkedin.com/in/roobis-c-14a9a8257/
+A programmer who loves crafting **clean, responsive, and impactful** web experiences.  
+I combine **HTML, CSS, JavaScript, and modern frameworks** to turn ideas into digital reality.  
 
-Let's collaborate and create something awesome together!
-<p align="center"">
-  <img src="https://github.com/user-attachments/assets/6e924257-c17f-4a29-9c97-d22220cfa432" alt="coding" height="300px">
+- 🌱 **Learner** — Always sharpening my skills with new projects and challenges.  
+- 🎨 **Designer** — Focused on creating *pixel-perfect* and user-friendly designs.  
+- ⚡ **Builder** — From scratch concepts to polished products, I deliver with quality.  
+
+
+<br>
+<div>
+<h3 align="center">FolioSmith</h3>
+
+<p align="center"><strong>Build your portfolio in seconds — without writing a single line</strong></p>
+
+<p align="center">
+  <a href="https://roobis.neocities.org/builder" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Visit-FolioSmith-brightgreen?style=for-the-badge&logo=firefox" alt="Visit FolioSmith"/>
+  </a>
+  <hr>
 </p>
-<!---
-Roobis-c/Roobis-c is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</div>
+
+## 🛠 My Tech Arsenal  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap,wordpress,webflow,java,c,mongodb,mysql,git" />
+</p>
+
+
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
+
+
+
+
+<br>
+
+
+## 🤝 Let's Connect  
+
+<p align="center">
+  <a href="mailto:roobisroobis08@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/roobis-c-14a9a8257/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a  href="https://roobis.neocities.org/"><img src="https://img.shields.io/badge/-Portfolio-gray?style=for-the-badge&logo=google-chrome&logoColor=white"  /></a>
+</p>
+
+
+
+
+
+<br>
+
+<div align="center">
+  
+💬 *"Great websites aren’t just built — they’re crafted with purpose, code, and creativity."*  
+
+</div>
