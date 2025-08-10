@@ -1,73 +1,63 @@
-<!-- HEADER -->
-<div >
-  Hey , There
-  
-# I'm Roobis C  
-**Web Developer  ⫘  Programmer  ⫘ Continuous Learner**
-
-</div> 
-
-A programmer who loves crafting **clean, responsive, and impactful** web experiences.  
-I combine **HTML, CSS, JavaScript, and modern frameworks** to turn ideas into digital reality.  
-
-- 🌱 **Learner** — Always sharpening my skills with new projects and challenges.  
-- 🎨 **Designer** — Focused on creating *pixel-perfect* and user-friendly designs.  
-- ⚡ **Builder** — From scratch concepts to polished products, I deliver with quality.  
+<!-- Hero Section -->
+<!-- Typing SVG -->
+<p align="center">Hey There 👋</p>
+<h3 align="center"> I'm Roobis C <br>
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=1500&color=white&center=true&vCenter=true&width=700&lines=Passionate+Programmer;Web+Developer;Continuous+Learner;"></h1>
 
 
+
+
+# About Me
+
+Passionate web developer skilled in **HTML**, **CSS**, **JavaScript** ,and **React.js** focused on creating clean, functional, and visually appealing web experiences. 
+ Experienced with **UI/UX design**, **Graphic Design**, **DBMS** (MySQL, MongoDB), **WordPress**, and **Webflow**.
+I believe great code is not just functional — it’s *art*.
+
+- Currently exploring  **Node.js**  
+-  Goal: To design web solutions that make an impact  
+-  Always learning through hands-on projects and real-world problem solving  
+
+---
 <br>
-
-
-## 🛠 My Tech Arsenal  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap,wordpress,webflow,java,c,mongodb,mysql,git" />
-</p>
+<h3>Skills & Tools <br><br> <p><img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap,wordpress,webflow,java,c,figma,mongodb,git" /> </p></h3>
 
 
 <br><br>
-<div>  
-<h3 >FolioSmith</h3>
-<p ><strong>Build your portfolio in seconds — without writing a single line</strong></p>
-<p >
-  <a href="https://roobis.neocities.org/builder" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Visit-FolioSmith-brightgreen?style=for-the-badge&logo=firefox" alt="Visit FolioSmith"/>
-  </a>
+
+<h3>Projects</h3>
+
+| Project | Description |Link |
+|---------|-------------|------|
+| **FolioSmith** |Create you own portfoli in seconds-without writting code|  [View](https://roobis.neocities.org/builder) |
+| **BrainBoost** | AI-powered study planner for efficient learning.|  Not Hosted |
+| **SmartBite** | Personalized AI diet suggestions based on user goals. | Not Hosted |
+| **StroyStream-Mini** | Explore thrilling Short stories, inspiring quotes, facts. | [View ](https://roobis.neocities.org/stories/homepage)|
+| **RDR2 StoryHub** | Experience epic tales, unforgettable adventures of RDR2. | [View](https://roobis-c.github.io/FontEnd-RDR2-storyHub-/)
+| **Far Cry 3 StroyHub** | Experience epic tales, unforgettable adventures of Far Cry 3. | [View ](https://roobis.neocities.org/stories/homepage)|
+| **WordPress Website**  | StoryStream: Explore thrilling  stories, inspiring quotes, facts.  |[Visit](https://roobis7.wordpress.com/) |
+| | <h3 align="center"> Productivity Tool</h3> | |
+| 1| **TODO LIST** | [View ](https://roobis.neocities.org/To-Do/)|
+| 2|**Calculator** | [View ](https://roobis.neocities.org/calculator/cal)|
+| 3|**NotePad** | [View ](https://roobis.neocities.org/notepad/indexx)
+
+
+
+<br><br>
+
+<p align="center"">
+  <img src="https://github.com/user-attachments/assets/6e924257-c17f-4a29-9c97-d22220cfa432" alt="coding" height="300px">
 </p>
-  
-</div>
 
 
-
-<br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<br>
-
-
-
-
-<br>
-
-
-## 🤝 Let's Connect  
-
+##  Let's Connect  
+I’m always excited to connect, collaborate, and create! Whether you want to discuss a project, share ideas, or just say hi, feel free to reach out. Let’s turn code into something amazing together.
 <p align="center">
   <a href="mailto:roobisroobis08@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/roobis-c-14a9a8257/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a  href="https://roobis.neocities.org/"><img src="https://img.shields.io/badge/-Portfolio-gray?style=for-the-badge&logo=google-chrome&logoColor=white"  /></a>
+    <a href="https://instagram.com/_robix_7__">
+    <img src="https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 
